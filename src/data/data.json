@@ -1,0 +1,138 @@
+{
+    "Header": {
+
+        "title": "DUSKEY SOLUTIONS",
+        "paragraph": "Our mission is to provide a top-notch customer experience by delivering quality products and by building a company culture of employment and collaboration.",
+        "paragraph1": "Our vision is to become an industry leader in commercialized manufacturing by setting industry standards for excellence in the service we provide. Because our innovative team works  onstantly on perfecting, changing, and fine-tuning our products, we’re always adapting to our customer’s changing requirement."
+        
+
+    },
+    "About": {
+        "paragraph": "At Duskey, we believe there is a better way to do marketing. A more valuable,less invasive way where customers are earned rather than bought. We're obsessively passionate about it, and our mission is to help people to achieve it. We focus on search engine optimization(SEO). it is one of the least understood & least transparent aspects of great marketing, and we see that as an opportunity. We're excited to simplify SEO for everyone through our software, education, and community.",
+        "Why": [
+            "Passion",
+            "Integrity",
+            "Optimism",
+            "Teamwork"
+        ],
+        "Why2": [
+            "Flexibility",
+            "Self-reliance",
+            "Honesty",
+            "Loyalty"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Blockchain",
+            "text": "Private & Public Block Chains and Smart Contracts"
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Full Stack Development",
+            "text": "JavaScript, serverless"
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Cloud Enablement",
+            "text": "Microservices, API’S, NOSQL"
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Mobile Application",
+            "text": "Hybrid, Native, PWA"
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Electrical Systems",
+            "text": "Industrial Electrical Systems with better energy management"
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Building Automation ",
+            "text": "Automatic centralized control of a building's HVAC, electrical, lighting, shading, Access Control and Security Systems"
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
