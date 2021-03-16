@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "279ff47dd78906dba661a1639f74c9aa",
+    "revision": "50ab46d43a39275d04d4d01a370e9ad7",
     "url": "/duskeyapp/index.html"
   },
   {
-    "revision": "ab832815cb916ac4f139",
+    "revision": "4c3c5c8c7c7ae03d3ea7",
     "url": "/duskeyapp/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/duskeyapp/static/js/2.ef9b312c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab832815cb916ac4f139",
-    "url": "/duskeyapp/static/js/main.83e5a95a.chunk.js"
+    "revision": "4c3c5c8c7c7ae03d3ea7",
+    "url": "/duskeyapp/static/js/main.61af3d7c.chunk.js"
   },
   {
     "revision": "a3edca0b5da9a40e2344",
