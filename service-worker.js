@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/duskeyapp/precache-manifest.69dbe3ed0052f8386489f65379a2b8dd.js"
+  "/duskeyapp/precache-manifest.3b373fa6a7d1db7f82ee21018bfafecd.js"
 );
 
 self.addEventListener('message', (event) => {
