@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9def40ddf2fbfc0a71dc0bd87d4b318",
+    "revision": "f8182a79b3ad3e2ee1ad624c6143e124",
     "url": "/duskeyapp/index.html"
   },
   {
