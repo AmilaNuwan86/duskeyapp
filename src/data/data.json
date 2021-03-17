@@ -57,82 +57,82 @@
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Perfect! Thank for the amazing support\"",
+            "name": "Gihan"
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Awesome service, fast and helpful. Thank you again for your help\"",
+            "name": "Buddika"
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Great service as always and can recommend for everyone\"",
+            "name": "Chameera"
         },
         {
             "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"You guys are rock!!!. Keep it up..\"",
+            "name": "Rayan"
         },
         {
             "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"Wow, once again amazing support. I won’t hesitate to recommend your service.\"",
+            "name": "Pathum"
         },
         {
             "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"The experience so far has been fantastic. Working with (add employee name) was such a friendly yet experience for Duskey.\"",
+            "name": "pradeep"
         }
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
+            "name": "Shashitha",
             "job": "Director"
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "Nilu",
+            "job": "Senior Engineer"
         }, {
             "img": "img/team/03.jpg",
-            "name": "Jane Doe",
+            "name": "Thimali",
             "job": "Senior Designer"
         },
         {
             "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "name": "Amila",
+            "job": "Senior Engineer"
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "address": "794/1  Muwanhelawatta Road, 3rd Lane, Thalangama North, Malabe. ",
+        "phone": "+94 112 816 827",
+        "email": "info@duskey.lk",
+        "facebook": "www.facebook.com",
+        "twitter": "www.twitter.com",
+        "youtube": "www.youtube.com"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Fulfilling Customer Needs",
+            "text": "Customers have various needs and want, and the sole purpose of businesses is to fulfill those needs by providing various assortment of products and services."
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Social and Societal upliftment",
+            "text": "Business objectives are designed in such a way that they end up uplifting society."
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Promotes Innovation",
+            "text": "Whenever a business is launched with unique products, it usually consists of innovative products."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Marketing and Promotional activities",
+            "text": "It is ensured that the features and benefits of the products are also mentioned so that it is easier for the customer to make the purchase decisions. Highlighting these facts requires high technical skills and know-how about the product."
         }
     ]
 }
